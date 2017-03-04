@@ -46,6 +46,7 @@ nav ul{
 
 nav ul li{
     float: left;
+    height:60px;
     margin-right: 20px;
 }
 
